@@ -1,0 +1,117 @@
+import random
+import urllib
+
+
+
+def DownloadImage(url):
+    name = random.randrange(1 , 10000)
+    FullName = str(name) + ".jpg"
+    urllib.urlretrieve(url, FullName)
+
+print("Enter the url of the Image you want to Download below!")
+enter = raw_input("")
+DownloadImage(enter)
+
+#1
+print("Would you like to get another image? Hit enter if no")
+enter = raw_input("")
+DownloadImage(enter)
+
+#2
+print("Would you like to get another image? Hit enter if no")
+enter = raw_input("")
+DownloadImage(enter)
+
+#3
+print("Would you like to get another image? Hit enter if no")
+enter = raw_input("")
+DownloadImage(enter)
+
+#4
+print("Would you like to get another image? Hit enter if no")
+enter = raw_input("")
+DownloadImage(enter)
+
+#5
+print("Would you like to get another image? Hit enter if no")
+enter = raw_input("")
+DownloadImage(enter)
+
+#6
+print("Would you like to get another image? Hit enter if no")
+enter = raw_input("")
+DownloadImage(enter)
+
+#7
+print("Would you like to get another image? Hit enter if no")
+enter = raw_input("")
+DownloadImage(enter)
+
+#8
+print("Would you like to get another image? Hit enter if no")
+enter = raw_input("")
+DownloadImage(enter)
+
+#9
+print("Would you like to get another image? Hit enter if no")
+enter = raw_input("")
+DownloadImage(enter)
+
+#10
+print("Would you like to get another image? Hit enter if no")
+enter = raw_input("")
+DownloadImage(enter)
+
+#11
+print("Would you like to get another image? Hit enter if no")
+enter = raw_input("")
+DownloadImage(enter)
+
+#12
+print("Would you like to get another image? Hit enter if no")
+enter = raw_input("")
+DownloadImage(enter)
+
+#13
+print("Would you like to get another image? Hit enter if no")
+enter = raw_input("")
+DownloadImage(enter)
+
+#14
+print("Would you like to get another image? Hit enter if no")
+enter = raw_input("")
+DownloadImage(enter)
+
+#15
+print("Would you like to get another image? Hit enter if no")
+enter = raw_input("")
+DownloadImage(enter)
+
+#16
+print("Would you like to get another image? Hit enter if no")
+enter = raw_input("")
+DownloadImage(enter)
+
+#17
+print("Would you like to get another image? Hit enter if no")
+enter = raw_input("")
+DownloadImage(enter)
+
+#18
+print("Would you like to get another image? Hit enter if no")
+enter = raw_input("")
+DownloadImage(enter)
+
+#19
+print("Would you like to get another image? Hit enter if no")
+enter = raw_input("")
+DownloadImage(enter)
+
+#20
+print("Would you like to get another image? Hit enter if no")
+enter = raw_input("")
+DownloadImage(enter)
+
+
+
+
